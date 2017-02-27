@@ -9,6 +9,10 @@ PrismAboutUs.java
 - includes method searchtext() which handles webpage parsing and result return type is hashmap
 - Includes main() method for running application
 
+RUN
+- file with program output
+
+Assignment questions:
 
 * How to run your script
 - download Java SeleniumWeb driver http://www.seleniumhq.org/download/
