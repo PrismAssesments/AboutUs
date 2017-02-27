@@ -11,7 +11,7 @@ public class PrismAboutUs {
 
     static Map<String, String> hashmap = new HashMap<String, String>();
     
-    java.util.List<java.util.Map.Entry<String,Integer>> pairList= new java.util.ArrayList<>();
+    //java.util.List<java.util.Map.Entry<String,Integer>> pairList= new java.util.ArrayList<>();
 
     public static Map searchtext() {
     	//System.setProperty("webdriver.chrome.driver", "C:\\Distirb\\Selenium\\chromedriver_win32\\chromedriver.exe");
