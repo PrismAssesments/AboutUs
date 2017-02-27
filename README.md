@@ -5,7 +5,7 @@ PrismAboutUs
 Brief description of submitted files: 
 
 PrismAboutUs.java
-- Printing outputs with test cases
+- Printing result output of searching via webpage
 - includes method searchtext() which handles webpage parsing and result return type is hashmap
 - Includes main() method for running application
 
