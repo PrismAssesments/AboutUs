@@ -31,3 +31,7 @@ However there are libraries that allow to accomplish those types of tasks easy b
  
 * If you ran out of time, what you were hoping to do next
  -a) Probably it makes sense to make hashmap generic.
+ -b) add try catch exceptions
+ -c) make executable file .jar file
+ -d) expand functionality - implement users inputs for what search and where
+ 
